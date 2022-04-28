@@ -9,4 +9,4 @@
 
 🚫 Not for the purpose of insulting another person/company/project
 
-✔️ Enjoy! See you later, alligator ;)
+✔️ Enjoy! See you later, alligator 😉
