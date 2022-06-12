@@ -1,4 +1,5 @@
 ![Alt Text](https://i.imgur.com/1XNzxXj.gif)
+<sub>_Designed for GitHub's Night Theme_</sub>
 ## Rules
 ✔️ Give the respetive credits
 
