@@ -1,3 +1,4 @@
+![Alt Text](https://i.imgur.com/1XNzxXj.gif)
 ## Rules
 ✔️ Give the respetive credits
 
