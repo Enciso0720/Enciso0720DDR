@@ -6,7 +6,9 @@ Hey there, fellow dancers! It's been a while, but I'm back with some exciting ne
 
 ## Latest Update Available
 
-![Alt Text](https://i.imgur.com/JrpvAoZ.png)
+![Alt Text](https://i.imgur.com/CPXi8CP.png)
+
+[Super Phase Update v1.1](https://github.com/Enciso0720/Enciso0720DDR/releases/tag/v1.1.SuperPhase)
 
 ## What's New?
 
@@ -20,7 +22,7 @@ Hey there, fellow dancers! It's been a while, but I'm back with some exciting ne
 
 - You now have the option to toggle character shadows on or off.
 
-- Exciting news! I've got a new patch for XX STARLiGHT -twopointzero- v2.1.0HF. (Stay tuned for more patches for other themes - reach out to your favorite themer for details!)
+- Exciting news! I've got a new patch for XX STARLiGHT -twopointzero- v2.1.0HF. 
 
 - I've given the Characters + DanceStages selection menu a fresh new design, making it more convenient and user-friendly.
 
@@ -56,11 +58,11 @@ Once you have patched and configured the XX STARLiGHT -twopointzero- v2.1.0HF as
 
 ## What's Coming in the Future?
 
-• I'm working on bringing DDR II DanceStages to the mix.
+🔄 I'm working on bringing DDR II DanceStages to the mix.
 
-• There's a possibility of future updates replacing the Characters bones (Note: No more DanceRoutines will be released for the current bones).
+🔄 There's a possibility of future updates replacing the Characters bones (Note: No more DanceRoutines will be released for the current bones).
 
-• I'm aware of the Red Dolphin stage's slow loading time and will optimize it in future updates.
+✅ ~~I'm aware of the Red Dolphin stage's slow loading time and will optimize it in future updates.~~
 
 <sub>* Everything mentioned above won't affect what I have planned for the next update.</sub> 
 
@@ -75,8 +77,6 @@ Project OutFox 0.4.19 LTS | XX.-STARLiGHT-.twopointzero.v2.1.0HF2
 ## Special Thanks
 
 Hoxx-DJ (✟). Thank you for being my mentor all those years ago. I wish you were here with us to continue working on this project.
-
-Curilang. Coding wizard.
 
 T27. Textures, 3D Models, testing, and suggestions (and for being a great friend too!).
 
